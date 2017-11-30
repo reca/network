@@ -1,3 +1,3 @@
 # network
 
-topologies, examples, devel foo
+scripts, topologies, examples, devel foo
